@@ -1,0 +1,27 @@
+Campus Recruitment Challenge
+
+Minimum Requirements:
+ Use of Jupyter notebook with markdown cells to add structure and documentation ( upload to Canvas)
+ Perform EDA on the data
+ Model the data (first focus on status prediction) (extra credit for salary – not in Kaggle)
+ First, use a Random Forest as a benchmark (minimum requirement)
+ Next (= extra): Go for the win! Choose your own ML modelling technique, but make sure you can explain what happens
+ Evaluation of the model, including a confusion matrix
+ Valid Kaggle submission
+ Powerpoint presentation for your team defense (upload to Canvas)
+Possible Extra’s:
+ Higher score on Kaggle
+ General expansion on the implementations of the minimum requirements
+ For instance a more elaborate EDA, excellent documentation and powerpoint, including salary predictions,
+etc.
+-------------------------------------------------------------------
+Overview
+This is a Machine Learning classification challenge in the context of the course ‘Artificial Intelligence’ at ThomasMore.
+It centers around predicting campus recruitment, and whether or not a student will be recruited for a job.
+And, secondary, when the student is recruited, what the starting salary will be. This starting salary is just as a bonus. The main prediction is that of the likelihood of a student’s placement.
+
+This is a team challenge, but don’t share code with other teams. The final notebook should contain at least: EDA on the data, scikitlearn for the modeling part, random forest as a benchmark model for the classification of the placement status, and other modeling techniques which might prove useful for this data set. Also include an evaluation of each model, including a confusion matrix
+
+Use markdown cells to add some structure and documentation to your notebook: remember: you have to defend the final result. Not only the result is important, also your understanding and reasoning behind the different steps involved to getting to your solution.
+
+Add a GenAI section at the bottom of your notebook / report (see GenAI policy)
